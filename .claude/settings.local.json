@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm --version)",
+      "Bash(npm --version)",
+      "Bash(npm install *)",
+      "Bash(pnpm install *)",
+      "Bash(git init *)",
+      "Bash(git remote *)",
+      "Bash(pnpm build *)",
+      "Bash(git add *)",
+      "Bash(git commit -m 'feat: initial astro-koharu 4.1.0 setup *)"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "chrome-devtools"
+  ]
+}
