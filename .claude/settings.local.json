@@ -9,7 +9,9 @@
       "Bash(git remote *)",
       "Bash(pnpm build *)",
       "Bash(git add *)",
-      "Bash(git commit -m 'feat: initial astro-koharu 4.1.0 setup *)"
+      "Bash(git commit -m 'feat: initial astro-koharu 4.1.0 setup *)",
+      "mcp__chrome-devtools__new_page",
+      "mcp__chrome-devtools__take_snapshot"
     ]
   },
   "enableAllProjectMcpServers": true,
