@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zjxkkd.github.io/sitemap-index.xml
